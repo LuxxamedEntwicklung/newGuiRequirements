@@ -1,0 +1,2 @@
+All GUI Files are following Model->View->Controller concept of JavaFX. To fullfill the standard we use Gluon sceneBuilder tool for JavaFX in it's actual versioning. The Gluon Scenebuilder is the official JavaFX Toolchain for GUI Design.
+It produces fxml Files. For this fxml Files we provide the java controllers.
