@@ -13,3 +13,7 @@ The Jvm has to be secured so there shall be no file system access from outside v
 The ssh functionality shall be switched on and off via the software when a user is logged in which has admin privileges on the system.
 
 The server shall be an nginx serverr with no file repository
+
+Webserver is based on NBfxml example with JPro maven repos and JPro base features
+
+last edited 21.09.2025, Thorsten Stüker
