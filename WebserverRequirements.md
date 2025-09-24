@@ -14,6 +14,6 @@ The ssh functionality shall be switched on and off via the software when a user 
 
 The server shall be an nginx serverr with no file repository
 
-Webserver is based on NBfxml example with JPro maven repos and JPro base features
+Webserver is based on NBfxml example with JPro maven repos and JPro base features. The WebApp is written as SinglePager to provide maximum security.
 
 last edited 21.09.2025, Thorsten Stüker
