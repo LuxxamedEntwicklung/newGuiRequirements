@@ -3,3 +3,5 @@ The new Login Window shows TextFields for usernbame and password and a LoginButt
 The Login Window has a StackPane Background which can be covered with a Logo wall for the web application cause the web application always needs a resizyble background for a Scene Window.
 
 The Login Window also contains a background Image which shows the Luxxamed Logo.
+
+The Window format is 400 to 600 pixels.
