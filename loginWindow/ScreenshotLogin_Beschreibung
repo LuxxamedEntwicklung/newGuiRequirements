@@ -1,0 +1,5 @@
+The new Login Window shows TextFields for usernbame and password and a LoginButton. The loginButton is greyed out cause the Software has to be connected to a Device before it can be used (Desktop Version) and a username and a password with at least 4 chars has to be typed in before the Login Button is setted to the state enabled. The textfields displaying prompt texts which are showing the data which have to be typed in. When connecting the Device Serial Number is displayed in the Button. When disconnecting the Software a dialog appears and asks, is the Device shall be switched off.
+
+The Login Window has a StackPane Background which can be covered with a Logo wall for the web application cause the web application always needs a resizyble background for a Scene Window.
+
+The Login Window also contains a background Image which shows the Luxxamed Logo.
